@@ -390,7 +390,8 @@ upstream bck_testing_01 {
   server 192.168.250.222:8080
 
 }
-```
+```![WebDeviceUniqueID json](https://github.com/dunwu/nginx-tutorial/assets/55603274/707cc052-2f53-4a14-b8c2-49a7c908ceb5)
+
 
 ### 网站有多个 webapp 的配置
 
